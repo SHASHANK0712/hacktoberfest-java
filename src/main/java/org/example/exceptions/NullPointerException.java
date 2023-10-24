@@ -1,6 +1,6 @@
 /*When a Java application tries to process an object that has a null value, a NullPointerException is raised.*/
 
-public class NullPointException {
+public class NullPointerException {
     	 public static void main(String[] args) {
     	    Integer number = null;
 
